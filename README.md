@@ -32,7 +32,7 @@ A modern React-based weather application that provides real-time weather updates
 
 ## 🔗 Live Demo
 
-👉 Coming Soon (Deploying on Vercel)
+[Click here to view the live app 🚀](https://weather-app-react-gules-one.vercel.app/)
 
 ---
 
@@ -54,3 +54,4 @@ VITE_API_KEY=your_api_key_here
 # Run the app
 npm run dev
 ```
+⚠️ Note: Weather data may vary slightly due to API limitations and real-time updates.
